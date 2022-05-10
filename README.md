@@ -1,5 +1,5 @@
 # Synchronized Processes
-
+![live-chat-apps-1280x720](https://miro.medium.com/max/1400/0*bbTnCsiT0klMbi3q.png)
 ## How to use the programm:
 ```bash
 $ "PUSH [your input]" : inserting element into the stack
