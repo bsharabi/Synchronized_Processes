@@ -1,4 +1,6 @@
 # Synchronized Processes
+
+> Process Synchronization means coordinating the execution of processes such that no two processes access the same shared resources and data. It is required in a multi-process system where multiple processes run together, and more than one process tries to gain access to the same shared resource or data at the same time.
 ![live-chat-apps-1280x720](https://miro.medium.com/max/1400/0*bbTnCsiT0klMbi3q.png)
 ## How to use the programm:
 ```bash
